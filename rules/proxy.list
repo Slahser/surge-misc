@@ -2,11 +2,7 @@ DOMAIN-SUFFIX,expo.dev
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,apple-relay.apple.com
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
-DOMAIN-KEYWORD,apple-relay
 DOMAIN-SUFFIX,macked.app
 DOMAIN,macked.app
-DOMAIN,gateway.icloud.com
 DOMAIN-SUFFIX,mizhiwu.xyz
 DOMAIN-SUFFIX,ghcr.io
